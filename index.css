@@ -9,24 +9,18 @@
     margin-top: 70px;
     background-attachment: fixed;
 }
-.header{
-    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
-    margin-top: 4%;
+p{
+    font-family: sans-serif;
+    margin-top: 6%;
     color: white;
     text-align: center;
-    font-size: 44;  
+    font-size: 60px;  
 }
 .logo{
     text-align: center;
     margin-top:5%;
     background-repeat: no-repeat;
     background-size: cover;
-
-}
-h1{
-    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
-    margin-top:1px;
-    color: white;
-    text-align: center;
-    font-size: 45; 
+    margin-bottom: unset;
+    box-sizing: content-box;
 }
