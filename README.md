@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ANITAS KITCHEN
 ## Author
 Robert Okello
@@ -19,3 +20,6 @@ To access this project on your local files, you can clone it using these steps
 1. Git
 ### Live Site
 View [live](*****)
+=======
+
+>>>>>>> ffeaeb58fe79c6f2a4abc6ea7b31a218846be561
