@@ -1,7 +1,21 @@
-ANITAS KITCHEN
-Anitas Kitchen is a project about a spacious one of the restaurants called MENU.Which ilocated in a condusive environment.
-The foods are sumptuos and delicious cooked and prepared with the best cooks ever.
-
-CONTACTS
-If you have problems,questions, ideas or any sugestions please contacts us by mailing us on our direct mails see:robertokello443@gmail.com
-     All contributors to the project are thanked.
+# ANITAS KITCHEN
+## Author
+Robert Okello
+## Description
+Its a website that expalins more about a restaurant called Anitas Kitchen where the best food and delicacies are prepared by qualified and experienced chefs with a quality food in our Menu.
+### Prerequisites
+You need to have git installed
+You can install it with the following command in your terminal
+`$ sudo apt install git-all`
+### Setup
+To access this project on your local files, you can clone it using these steps
+1. Open your terminal
+1. Use this command to clone `$ git clone ******
+1. This will clone the repositoty into your local folder
+1. __Enjoy :)__
+### Technologies Used
+1. HTML
+1. CSS
+1. Git
+### Live Site
+View [live](*****)

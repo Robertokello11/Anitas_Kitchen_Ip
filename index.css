@@ -1,0 +1,32 @@
+.intro{
+    padding:0;
+    background-image: url("../images//landing.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 850px;
+    width: 100%;
+    background-position: center center;
+    margin-top: 70px;
+    background-attachment: fixed;
+}
+.header{
+    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+    margin-top: 4%;
+    color: white;
+    text-align: center;
+    font-size: 44;  
+}
+.logo{
+    text-align: center;
+    margin-top:5%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+    margin-top:1px;
+    color: white;
+    text-align: center;
+    font-size: 45; 
+}
