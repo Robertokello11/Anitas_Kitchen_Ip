@@ -31,7 +31,7 @@ p{
     margin-right: 11%;
     margin-bottom: 10%;
     padding-right: 0;
-    margin-top: 5%;
+    margin-top: 4%;
     box-shadow: 0 0 4px 4px #ccc;
     position: relative;
 }
@@ -39,4 +39,44 @@ p{
     float: left;
     text-align: left ;
     text-overflow: inherit;
+}
+.img{
+    display:flex ;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    color: white;
+}
+#happyhour{
+    background-color: red;
+    padding: 30px;
+}
+#partytime{
+    background-color: grey;
+    padding: 20px;
+    padding-bottom: 30px;
+}
+#breakfast{
+    text-align: center;
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+#lunch{
+    text-align: center;
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+#dinner{
+    text-align: center;
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+.pic3{
+    text-align: left;
+     position: relative;
+     box-shadow: 4px #ccc;
+     border: 0rem;
+     box-sizing:content-box
 }
