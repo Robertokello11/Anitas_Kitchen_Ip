@@ -80,3 +80,29 @@ h2{
      border: 0rem;
      box-sizing:content-box
 }
+#font{
+    font-size: 90%;
+}#bar{
+    background-image: url("../images/foodsBg.jpg");
+}
+h4{
+    color: #F15a29;
+}
+h5{
+    align-self: center;
+    color: white;
+}
+#lastpage{
+    background-color: #ef6e19;
+}
+.row2{
+    text-align: left;
+    text-overflow: ellipsis;
+}
+#font{
+    text-indent: 5px;
+    text-align: left;
+    text-align-last: center;
+    float: justify;
+    
+}
