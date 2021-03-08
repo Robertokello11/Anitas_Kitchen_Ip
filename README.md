@@ -19,8 +19,4 @@ To access this project on your local files, you can clone it using these steps
 1. CSS
 1. Git
 ### Live Site
-View [live](" https://robertokello11.github.io/Anitas_Kitchen_Ip/
-")
-=======
-
->>>>>>> ffeaeb58fe79c6f2a4abc6ea7b31a218846be561
+View [live](" https://robertokello11.github.io/Anitas_Kitchen_Ip/")
