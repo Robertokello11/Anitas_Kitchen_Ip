@@ -11,7 +11,7 @@ You can install it with the following command in your terminal
 ### Setup
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
-1. Use this command to clone `$ git clone ******
+1. Use this command to clone `$ git clone 
 1. This will clone the repositoty into your local folder
 1. __Enjoy :)__
 ### Technologies Used
@@ -19,7 +19,8 @@ To access this project on your local files, you can clone it using these steps
 1. CSS
 1. Git
 ### Live Site
-View [live](*****)
+View [live](" https://robertokello11.github.io/Anitas_Kitchen_Ip/
+")
 =======
 
 >>>>>>> ffeaeb58fe79c6f2a4abc6ea7b31a218846be561
